@@ -18,5 +18,5 @@ interfaces:
     type: 10gbase-t
     mgmt_only: false
   - name: iLO
-    type: 100base-t
+    type: 100base-tx
     mgmt_only: true
