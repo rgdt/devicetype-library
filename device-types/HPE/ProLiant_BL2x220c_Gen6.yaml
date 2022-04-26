@@ -1,0 +1,16 @@
+---
+manufacturer: HPE
+model: ProLiant BL2x220c Gen6
+slug: hpe_bl2x220c_g6
+u_height: 0
+is_full_depth: false
+interfaces:
+  - name: Gig-E 1
+    type: 1000base-t
+    mgmt_only: false
+  - name: Gig-E 2
+    type: 1000base-t
+    mgmt_only: false
+  - name: iLO
+    type: 100base-t
+    mgmt_only: true
