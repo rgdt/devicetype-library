@@ -1,0 +1,14 @@
+---
+manufacturer: FS
+model: FHD-1UFMT-N
+slug: fhd-1ufmt-n
+comments: FHD 4-Slot 1U Rack-Chassis
+part_number: FHD-1UFMT-N
+u_height: 1
+is_full_depth: false
+subdevice_role: parent
+device-bays:
+  - name: '1'
+  - name: '2'
+  - name: '3'
+  - name: '4'
