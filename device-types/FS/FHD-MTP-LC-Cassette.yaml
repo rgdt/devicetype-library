@@ -105,5 +105,5 @@ front-ports:
     rear_port_position: 24
 rear-ports:
   - name: mtp
-    type: lc
+    type: mpo
     positions: 24
