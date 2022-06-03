@@ -4,3 +4,9 @@ model: PowerEdge C6400
 slug: dell_poweredge_c6400
 u_height: 2
 is_full_depth: false
+subdevice_role: parent
+device-bays:
+  - name: '1'
+  - name: '2'
+  - name: '3'
+  - name: '4'
